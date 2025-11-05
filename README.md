@@ -1,5 +1,5 @@
 # SEII-YOLO
-SII-YOLO11：An Improved algorithm for substation Infrared Image recognition
+SII-YOLO11: A Lightweight Enhanced Object Detection Model for Substation Equipment Infrared Images with Applications in IoT Embedded Devices
 # Usage
 ## Install Dependencies
 ```
