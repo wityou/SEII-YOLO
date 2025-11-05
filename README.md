@@ -2,7 +2,8 @@
 SII-YOLO11：An Improved algorithm for substation Infrared Image recognition
 # Usage
 ## Install Dependencies
-```git clone https://github.com/wityou/SEII-YOLO.git
+```
+git clone https://github.com/wityou/SEII-YOLO.git
 cd SEII-YOLO
 wget https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.3/flash_attn-2.7.3+cu11torch2.2cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
 conda create -n SEII-YOLO python=3.11
