@@ -13,11 +13,11 @@ pip install -e .
 ```
 ## Training
 Use the following code to train the SEII-YOLO models. Make sure the model configuration file path and the coco dataset configuration file are correct in train.py.
-```python
+```
 python train.py
 ```
 ## Prediction
 Use the following code to perform object detection using the SEII-YOLO models. Make sure to replace with the desired model in file.
-```python
+```
 python predict.py
 ```
