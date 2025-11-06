@@ -1,5 +1,5 @@
 # SEII-YOLO
-SII-YOLO11: A Lightweight Enhanced Object Detection Model for Substation Equipment Infrared Images with Applications in IoT Embedded Devices
+This is the official implementation of the SEII-YOLO model proposed in our paper, which is designed for substation equipment infrared image defect detection.
 # Usage
 ## Install Dependencies
 ```
